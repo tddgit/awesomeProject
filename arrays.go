@@ -55,5 +55,5 @@ func main() {
 		fmt.Println(len(primes))
 
 	}
-	
+
 }
