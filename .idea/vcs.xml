@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ch8_Unix/gomodule" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/web-programming/gwp" vcs="Git" />
   </component>
 </project>
