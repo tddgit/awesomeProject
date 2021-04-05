@@ -8,6 +8,7 @@ import (
 
 func main() {
 	n := flag.Int("n", 10, "Number of goroutines")
+	flag.Parse()
 
 	count := *n
 	fmt.Printf("Going to create %d goroutines. \n", count)
